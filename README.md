@@ -13,6 +13,8 @@ Just some suggestions for Kronos the Minecraft Hacked Client
 
 5.) add a theme option (I like the current one but maybe other people may not)
 
+6.) make an option for breadcrumbs to trail behind all players
+
 NOTES FOR KRONOS
 
 please keep the KillAura's locking features (It's easier to troll people 'cause they think it's legit)
